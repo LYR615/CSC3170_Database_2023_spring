@@ -1,0 +1,3 @@
+SELECT FIRST_NAME 
+FROM as3.employees
+WHERE FIRST_NAME LIKE '_a%'
